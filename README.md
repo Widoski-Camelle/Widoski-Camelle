@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm HOUNDAGBA Camelle Widoski</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+<p align="center">I am an enthusiastic Full Stack developer who loves to create innovative web solutions. With a passion for designing high quality products and extensive experience on both the front-end and back-end sides, I strive to combine technical excellence with a user-centric approach.</p>
+
 - 🔭 I’m currently working on [app creation with C#](https://github.com/Widoski-Camelle/CSharp)
 
 - 🌱 I am currently deepening **C# .net**
