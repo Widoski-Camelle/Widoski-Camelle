@@ -123,8 +123,6 @@
 ###
 
 ---
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=Widoski-Camelle&icon=2&color=8)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="[![](https://visitcount.itsvg.in/api?id=Widoski-Camelle&icon=2&color=8)](https://visitcount.itsvg.in)" height="200" alt="streak graph"  />
-</div>
+</p>
