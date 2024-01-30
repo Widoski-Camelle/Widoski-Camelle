@@ -124,8 +124,5 @@
 
 ---
 <p align="center">
-[![](https://visitcount.itsvg.in/api?id=Widoski-Camelle&icon=2&color=8)](https://visitcount.itsvg.in)
-</p>
-<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Widoski-Camelle&icon=2&color=8" alt="Profile Visit Counter">
 </p>
