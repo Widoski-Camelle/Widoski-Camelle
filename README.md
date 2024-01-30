@@ -122,11 +122,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Widoski-Camelle.Widoski-Camelle&left_color=dodgerblue&right_color=darkslategrey&left_text=Profile%20Views"  />
-</div>
-
-###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Widoski-Camelle&icon=2&color=8)](https://visitcount.itsvg.in)
