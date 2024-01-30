@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Widoski-Camelle/Widoski-Camelle/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Widoski-Camelle/Widoski-Camelle/blob/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
